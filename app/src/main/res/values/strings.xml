@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">BeerTest</string>
+
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">BeerTest - Satalia</string>
+    <string name="slide_1_desc">You are a crazy beer-fanatic millionaire. Its the weekend. Your location is LONG/LAT. You have a perfect helicopter with enough fuel to fly 2000 kilometers.</string>
+
+    <string name="slide_2_title">BeerTest - Satalia</string>
+    <string name="slide_2_desc">You have an idea to visit as many beer factories within that distance as you can and collect as many beer types as you can for your party this weekend.</string>
+
+    <string name="slide_3_title">BeerTest - Satalia</string>
+    <string name="slide_3_desc">Program accepts following inputs: Home location (latitude, longitude) and Priority (breweries or beer types)</string>
+
+    <string name="slide_4_title">BeerTest - Satalia</string>
+    <string name="slide_4_desc">Program uses SQLite to run MySQL inside the Android App. Internet Connection is not Required.</string>
+
+    <string name="copyrights">Developed With 0x2764 by AMRFAORUQA</string>
+
+</resources>
