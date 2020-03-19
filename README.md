@@ -21,21 +21,21 @@ Install Android Studio, clone the project and do following steps:
  - Option 2: Copy generated APK, located in "app/debug" or "app/release", to your physical device and install the app from it.
 
 <p float="left">
-  <img src="images/1.jpg" width="300" />
-  <img src="images/2.jpg" width="300" /> 
-  <img src="images/3.jpg" width="300" />
+  <img src="images/1.jpg" width="250" />
+  <img src="images/2.jpg" width="250" /> 
+  <img src="images/3.jpg" width="250" />
 </p>
 
 <p float="left">
-  <img src="images/4.jpg" width="300" />
-  <img src="images/5.jpg" width="300" /> 
-  <img src="images/6.jpg" width="300" />
+  <img src="images/4.jpg" width="250" />
+  <img src="images/5.jpg" width="250" /> 
+  <img src="images/6.jpg" width="250" />
 </p>
 
 <p float="left">
-  <img src="images/7.jpg" width="300" />
-  <img src="images/8.jpg" width="300" /> 
-  <img src="images/9.jpg" width="300" /> 
+  <img src="images/7.jpg" width="250" />
+  <img src="images/8.jpg" width="250" /> 
+  <img src="images/9.jpg" width="250" /> 
 </p>
 
 
