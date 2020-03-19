@@ -18,4 +18,4 @@ Install Android Studio, clone the project and do following steps:
  - Option 1: Run app from Android Studio to Emulator or Physical Device.
  - Option 2: Copy generated APK, located in "app/debug" or "app/release", to your physical device and install the app from it.
 
- ❮img src="images/1.jpg" width="100" ❯
+ <img src="images/1.jpg" width="100" >
