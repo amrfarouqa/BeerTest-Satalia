@@ -15,11 +15,12 @@ Program accepts following inputs:
  - Android Studio
  - Emulator or Physical Device
  
-# Usage
+# Usage:
 Install Android Studio, clone the project and do following steps:
  - Option 1: Run app from Android Studio to Emulator or Physical Device.
  - Option 2: Copy generated APK, located in "app/debug" or "app/release", to your physical device and install the app from it.
 
+# Screenshots:
 <p float="left">
   <img src="images/1.jpg" width="250" />
   <img src="images/2.jpg" width="250" /> 
