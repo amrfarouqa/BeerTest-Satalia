@@ -22,6 +22,9 @@ Install Android Studio, clone the project and do following steps:
 
 # Screenshots:
 
- <img src="images/1.jpg" width="350px">
- <img src="images/2.jpg" width="350px">
- <img src="images/3.jpg" width="350px">
+<p float="left">
+  <img src="images/1.jpg" width="100" />
+  <img src="images/2.jpg" width="100" /> 
+  <img src="images/3.jpg" width="100" />
+</p>
+
